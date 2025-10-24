@@ -5,12 +5,26 @@ body{
     background-size: cover;
     padding-left: 40px ;
     padding-top: 20px;
+    
 }
 
 
 .home{
     display: flex;
-    justify-content: end;
-    gap: 150px;
-    font-size:2vw;
+    justify-content: center;
+    margin-left: 22%;
+    gap: 30px;
+    font-size:3vh;
+}
+
+.ws{  
+    color: black;
+    background-color: #FEFE55;
+    padding: 1vh 3vh;
+    border-radius: 8px;
+
+}
+
+.descricao{
+    padding: 5vh 3vh;
 }
