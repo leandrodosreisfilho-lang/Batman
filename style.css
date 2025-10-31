@@ -63,8 +63,26 @@ body{
     padding: 1vh 3vh;
 }
 
-.ws2{  
-display: flex;
-width: 300px;
-align-items: flex-start ;
+
+.ws1{  
+    color: black;
+    background-color: #FEFE55;
+    padding: 1vh 3vh;
+    border-radius: 8px;
+    display:flex ;
+    transform: translateX(30px);
+    width:140px;
+}
+
+footer{
+    padding-bottom: ;
+}
+
+.conteiner{
+    
+    transform: translateX(200px);
+    display: flex;
+    background-color: black;
+    width: 400px;
+    border-radius: 8px;
 }
