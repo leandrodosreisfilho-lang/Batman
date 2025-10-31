@@ -25,6 +25,46 @@ body{
 
 }
 
+.titulo{
+    padding:10vh 3vh;
+}
+
+.tema{
+    transform: translateY(-70px);
+    padding: 1vh 3vh;
+    gap: 70px;
+    display: flex;
+    color: rgb(169, 169, 169);
+}
+
 .descricao{
-    padding: 5vh 3vh;
+    padding: 1vh 3vh;
+}
+
+.descricao h1{
+    font-size: 2vh;
+    display: flex;
+    transform: translateY(-75px);
+}
+
+
+.descricao h2{
+    font-size: 1.7vh;
+    display: flex;
+    transform: translateY(-60px);
+    color: rgb(169, 169, 169);
+}
+
+
+.logo{
+    display: flex;
+    position: absolute;
+    top: 0.1%;
+    padding: 1vh 3vh;
+}
+
+.ws2{  
+display: flex;
+width: 300px;
+align-items: flex-start ;
 }
