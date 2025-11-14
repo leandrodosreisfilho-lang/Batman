@@ -5,6 +5,7 @@ body{
     background-size: cover;
     padding-left: 40px ;
     padding-top: 20px;
+    width:100% ;
     
 }
 
@@ -88,11 +89,14 @@ body{
   align-items: center;
   width: 700px;
   max-width: 90%;
+  border: 1px solid #444;
+  transform: translate(0px, 150px);
 }
 
 .card img {
   width: 132px;
   height: 195px;
+  display: flex;
 }
 
 .info {
